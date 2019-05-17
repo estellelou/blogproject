@@ -1,0 +1,167 @@
+/* Background Image */
+
+#header-background {
+    max-width: 100% ;
+    height:400px ;
+    background: url('background.jpg') ;
+} 
+
+
+h1 {
+    color: white ;
+    font-size: 34px ;
+    text-align: center ; 
+    font-family: 'Archivo Narrow', sans-serif;
+    text-decoration: underline ;
+    text-decoration-color: white ;
+} 
+
+
+.head1 {
+    position: absolute;
+        top: 10px ;
+        right: 30% ;
+}
+ 
+
+.small {
+    width:15%;
+}
+
+
+.positionimg {
+    position: absolute;
+    top: 265px ;
+    right: 43% ;
+    width: 225px;
+    height: 225px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px #3c2f00;   
+}
+
+
+.holder {
+    margin: 0 auto;
+}
+
+
+.mytext {
+    color: black ;
+    font-size: 16px ;
+    text-align: left ; 
+    font-family: 'Archivo Narrow', sans-serif;
+    margin-left: 10% ;
+    margin-top: 10% ;
+    margin-right: 10% ;
+    margin-bottom: 4% ;
+}
+
+
+h2 {
+    color:black ;
+    font-size: 34px ;
+    text-align: center ; 
+    margin-top: 3% ;
+    font-family: 'Archivo Narrow', sans-serif;
+    text-decoration: underline ;
+    text-decoration-color:black ;
+}
+
+
+.mytext2 {
+    color: black ;
+    font-size: 16px ;
+    text-align: left ; 
+    font-family: 'Archivo Narrow', sans-serif;
+    margin-left: 10% ;
+    margin-top: 1% ;
+    margin-right: 10% ;
+    margin-bottom: 4% ;    
+}
+
+h3 {
+    color:black ;
+    font-size: 34px ;
+    text-align: left ; 
+    margin-left: 10% ;
+    font-family: 'Archivo Narrow', sans-serif;
+    text-decoration: underline ;
+    text-decoration-color:black ;
+}
+
+.list {
+    color:black ;
+    font-size: 16px ;
+    text-align: left ; 
+    margin-left: 8.5% ;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+h4 {
+    color:black ;
+    font-size: 34px ;
+    text-align: left ; 
+    margin-left: 10% ;
+    font-family: 'Archivo Narrow', sans-serif;
+    text-decoration: underline ;
+    text-decoration-color:black ;
+}
+
+.list2 {
+    color:black ;
+    font-size: 16px ;
+    text-align: left ; 
+    margin-left: 8.5% ;
+    margin-top: 2% ;
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+
+.listmove {
+    display: flex;
+    min-height: 20vh;
+    flex-direction: row;
+}
+
+
+hr.pacman {
+    border: 0;
+    height: 25px;
+    background-image: url('http://www.formget.com/wp-content/uploads/2014/12/type_3.png');
+    background-repeat: no-repeat;
+      background-position: center;
+}
+
+.linkcn {
+    color:black ;
+    font-size: 16px ;
+    text-align: center ; 
+    margin-top: 2% ;
+    font-family: 'Archivo Narrow', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.cnlogo {
+    width: 60px;
+   height: 50px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10px;
+   border-radius: 10px;
+
+}
+
+
+.logotext {
+    color:black ;
+    font-size: 16px ;
+    text-align: center ; 
+    margin-top: 1% ;
+    font-family: 'Archivo Narrow', sans-serif;
+}
