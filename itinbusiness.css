@@ -160,3 +160,79 @@ h2 {
     margin-bottom: 3% ;
 }
 
+
+.button1  {
+    background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-left: 17% ;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px #3c2f00;
+  position: absolute;
+  top: 353px ;
+  right: 75% ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px #3c2f00;  
+}
+
+.button2 {
+    background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'Archivo Narrow', sans-serif;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px #3c2f00;
+  position: absolute;
+  top: 353px ;
+  right: 16% ;  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px #3c2f00;   
+}
+
+
+.linkcn {
+    color:black ;
+    font-size: 16px ;
+    text-align: center ; 
+    margin-top: 2% ;
+    font-family: 'Archivo Narrow', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.cnlogo {
+    width: 60px;
+   height: 50px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10px;
+   border-radius: 10px;
+
+}
+
+
+.logotext {
+    color:black ;
+    font-size: 16px ;
+    text-align: center ; 
+    margin-top: 1% ;
+    font-family: 'Archivo Narrow', sans-serif;
+}
